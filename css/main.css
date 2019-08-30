@@ -1,0 +1,23 @@
+.img-thumb{
+    width: auto;
+    height: 200px;
+}
+
+.footer{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+hr{
+	border: 1px solid #eee;
+    border-color: green;
+}
+
+img.details{
+	width: 33%;
+	margin: 15px auto;
+}
+
+.table.auto{
+    width: auto;
+}
